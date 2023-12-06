@@ -80,5 +80,5 @@ void DatabaseDosen::lihatDataDosen() const {
     }
 }	else {
 		std::cout<<"Belum ada data dosen. \";
-        }   std::cout<<"----------------------------------------------\n";
+        }   std::cout<<"----------------------------------------------\n"; 
 }
